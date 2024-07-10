@@ -24,8 +24,11 @@ Understanding social engineering is crucial in today’s digital age. With the i
 
 By studying social engineering, we can better equip ourselves to recognize and counteract these deceptive tactics, ultimately strengthening our overall security framework.
 
+# Table of Contents
 
-### Roadmap for Becoming a Social Engineer
+- [Roadmap](#Roadmap)
+
+## Roadmap
 
 #### Step 1: Basic Security Concepts and Social Engineering Principles
 - **Introduction to Information Security**:
