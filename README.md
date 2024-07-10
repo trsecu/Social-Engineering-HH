@@ -26,7 +26,7 @@ By studying social engineering, we can better equip ourselves to recognize and c
 
 # Table of Contents
 
-- [Roadmap](#Roadmap)
+- 🗺️ [Roadmap](#Roadmap)
 
 ## Roadmap
 
