@@ -289,4 +289,4 @@ By utilizing these tools, social engineers can gather extensive information abou
 ## People have always been under the control of superstitions
 ## The real war is a show of power, not the defense of the country
   
-
+# Coming Soon ............................................. 😒
