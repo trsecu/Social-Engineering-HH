@@ -277,17 +277,17 @@ By utilizing these tools, social engineers can gather extensive information abou
 
 ---
 
-# Psychological-techniques
+## Psychological-techniques
 
-## 50 techniques of dark psychology (maybe too unethical, can't be posted here, I wrote a small part of these 50 techniques below)
+### 50 techniques of dark psychology (maybe too unethical, can't be posted here, I wrote a small part of these 50 techniques below)
 
-- ### Love bombing: Shower someone with excessive affection and attention to manipulate their emotions.
+- #### Love bombing: Shower someone with excessive affection and attention to manipulate their emotions.
 
-- ### Playing the victim: Pretend to be the victim to gain sympathy and manipulate others.
+- #### Playing the victim: Pretend to be the victim to gain sympathy and manipulate others.
   
-- ### F%king vulnerability: Pretend to be vulnerable to gain sympathy and manipulate others.
+- #### F%king vulnerability: Pretend to be vulnerable to gain sympathy and manipulate others.
 
-## People have always been under the control of superstitions
-## The real war is a show of power, not the defense of the country
+### People have always been under the control of superstitions
+### The real war is a show of power, not the defense of the country
   
 # Coming Soon ............................................. 😒
