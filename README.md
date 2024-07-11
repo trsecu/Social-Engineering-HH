@@ -28,6 +28,7 @@ By studying social engineering, we can better equip ourselves to recognize and c
 
 - 🗺️ [Roadmap](#Roadmap)
 - 1️⃣ [Basics-of-Social-Engineering](#Basics-of-Social-Engineering)
+- 👾 [Tools-for-Social-Engineering](#Tools-for-Social-Engineering)
 
 ## Roadmap
 
