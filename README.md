@@ -27,6 +27,7 @@ By studying social engineering, we can better equip ourselves to recognize and c
 # Table of Contents
 
 - 🗺️ [Roadmap](#Roadmap)
+- 1️⃣ [Basics-of-Social-Engineering](#Basics-of-Social-Engineering)
 
 ## Roadmap
 
@@ -77,3 +78,101 @@ By studying social engineering, we can better equip ourselves to recognize and c
   - Applying psychological tactics for manipulation.
 - **Recommended Reading**:
   - Books on body language, dark psychology, and the art of persuasion.
+
+# Basics-of-Social-Engineering
+
+## Introduction
+
+Social engineering is a manipulation technique that exploits human error to gain private information, access, or valuables. In the context of information security, it refers to tricks and psychological tactics used by attackers to deceive individuals into compromising security protocols or disclosing sensitive information.
+
+## What is Social Engineering?
+
+Social engineering involves exploiting human psychology rather than technical hacking techniques to gain access to buildings, systems, or data. It relies on the natural tendency of people to trust others and can be more effective than traditional hacking methods.
+
+## Common Techniques in Social Engineering
+
+### 1. Phishing
+
+Phishing involves sending fraudulent emails that appear to come from reputable sources to steal sensitive data like login credentials and credit card numbers.
+
+- **Example**: An email that looks like it’s from your bank asking you to verify your account details.
+
+### 2. Pretexting
+
+Pretexting is the act of creating a fabricated scenario to persuade a victim to release information or perform an action.
+
+- **Example**: Someone pretending to be from tech support to get your login details.
+
+### 3. Baiting
+
+Baiting involves offering something enticing to an individual in exchange for login information or to infect their system with malware.
+
+- **Example**: Leaving a USB drive labeled “Confidential” in a public place to tempt someone to use it.
+
+### 4. Tailgating
+
+Tailgating occurs when an unauthorized person follows an authorized person into a restricted area.
+
+- **Example**: An attacker following an employee into a secure building by pretending to have forgotten their access card.
+
+### 5. Quid Pro Quo
+
+Quid pro quo means offering a service or benefit in exchange for information or access.
+
+- **Example**: A fake IT technician offering to fix a problem in exchange for login credentials.
+
+## Key Principles of Social Engineering
+
+### 1. Authority
+
+People are more likely to comply with requests from an individual in a position of authority.
+
+### 2. Social Proof
+
+Individuals tend to follow the actions of others, especially in unfamiliar situations.
+
+### 3. Scarcity
+
+Items or information that appear to be in limited supply or available for a limited time are more attractive.
+
+### 4. Reciprocity
+
+People feel obliged to return favors, so attackers may offer something to gain trust and receive something in return.
+
+### 5. Consistency
+
+Once people commit to something, they are more likely to follow through with it.
+
+### 6. Liking
+
+People are more likely to be influenced by individuals they like or find attractive.
+
+## Defense Against Social Engineering
+
+### 1. Education and Awareness
+
+Regular training on the latest social engineering tactics can help employees recognize and resist manipulation attempts.
+
+### 2. Verification Protocols
+
+Always verify the identity of individuals making unusual requests through independent channels.
+
+### 3. Strong Security Policies
+
+Implement and enforce strong security policies that limit the amount of information employees can disclose.
+
+### 4. Incident Response Plans
+
+Develop and practice incident response plans to deal with potential social engineering attacks effectively.
+
+### 5. Use of Technology
+
+Utilize technology like email filters, firewalls, and intrusion detection systems to help identify and block social engineering attempts.
+
+## Conclusion
+
+Understanding the basics of social engineering is the first step in protecting yourself and your organization from these types of attacks. By recognizing common techniques and implementing strong defenses, you can reduce the risk and impact of social engineering threats.
+
+---
+
+For further reading and detailed case studies, explore the other sections of this repository.
