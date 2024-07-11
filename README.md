@@ -176,6 +176,34 @@ For further reading and detailed case studies, explore the other sections of thi
 
 Gathering information is a crucial step in social engineering attacks. By using various tools, attackers can collect detailed information about individuals and organizations. This section covers some of the best tools for searching social media accounts, performing Google Dorking, and conducting photo searches.
 
+## Tools for Information Gathering
+
+### 1. [Maltego](https://www.maltego.com/)
+Maltego is an interactive data mining tool that renders directed graphs for link analysis. It is useful for discovering relationships between different pieces of information.
+
+- **Example**: Mapping connections between social media profiles, email addresses, and phone numbers.
+
+### 2. [OSINT Framework](https://osintframework.com/)
+The OSINT Framework is a collection of OSINT (Open Source Intelligence) tools for gathering information from publicly available sources. It covers a wide range of categories and tools.
+
+- **Example**: Using the framework to find tools for searching social media, IP addresses, or domain names.
+
+### 3. [SpiderFoot](https://www.spiderfoot.net/)
+SpiderFoot is an open-source intelligence automation tool. It automates the process of gathering and analyzing data from various sources.
+
+- **Example**: Conducting a thorough investigation of a domain to uncover related email addresses, social media profiles, and more.
+
+### 4. [Recon-ng](https://github.com/lanmaster53/recon-ng)
+Recon-ng is a full-featured web reconnaissance framework. It provides a powerful environment for gathering open-source intelligence.
+
+- **Example**: Running modules to gather information about a specific target, such as social media profiles or email addresses.
+- 
+### 5. [Creepy](https://github.com/ilektrojohn/creepy)
+Creepy is a geolocation OSINT tool that gathers geolocation information from social networking platforms and image metadata. It visualizes the gathered data on maps.
+
+- **Example**: Collecting location data from social media posts and mapping the movements of an individual.
+
+
 ## Tools for Social Media Search
 
 ### 1. [Epieos](https://epieos.com/)
@@ -213,44 +241,36 @@ Google Dorking involves using advanced search techniques to find information tha
 
 ### Photo Search Tools
 
-#### 1. [PimEyes](https://pimeyes.com/en)
+#### 1. [Google Images](https://images.google.com/)
+Google Images allows users to perform reverse image searches to find the source and other instances of an image on the web. It is useful for identifying the origin of a photo and finding related images.
+
+- **Example**: Uploading an image or pasting the URL of an image to see where it appears on other websites.
+
+#### 2. [Yandex Images](https://yandex.com/images/)
+Yandex Images offers reverse image search capabilities similar to Google Images. It often provides different results, making it a valuable tool for comprehensive searches.
+
+- **Example**: Uploading an image to discover its online presence and related images on different platforms.
+
+#### 3. [FaceCheck.ID](https://facecheck.id/) ( it is suggested ❤️)
+FaceCheck.ID is a face recognition search engine that helps find social media profiles by searching a photo. It can identify individuals across various social media platforms.
+
+- **Example**: Uploading a photo to find associated social media profiles and online activity.
+
+#### 4. [PimEyes](https://pimeyes.com/en)
 PimEyes is a powerful reverse image search tool that helps find where an image appears online. It is useful for tracking the use of personal photos.
 
 - **Example**: Uploading a photo to see where it has been used on the internet.
 
-#### 2. [GeoSpy](https://geospy.ai/)
+#### 5. [GeoSpy](https://geospy.ai/)
 GeoSpy is a tool for finding the location of a photo. It uses metadata and other techniques to determine where a picture was taken.
 
 - **Example**: Uploading a photo to determine its geographic location.
 
-#### 3. [TinEye](https://tineye.com/)
+#### 6. [TinEye](https://tineye.com/)
 TinEye is another reverse image search tool that allows users to find where an image appears on the web. It can help in tracking the origin of a photo.
 
 - **Example**: Using TinEye to check if a profile picture is used elsewhere on the internet.
 
-## Additional Tools for Information Gathering
-
-### 1. [Maltego](https://www.maltego.com/)
-Maltego is an interactive data mining tool that renders directed graphs for link analysis. It is useful for discovering relationships between different pieces of information.
-
-- **Example**: Mapping connections between social media profiles, email addresses, and phone numbers.
-
-### 2. [OSINT Framework](https://osintframework.com/)
-The OSINT Framework is a collection of OSINT (Open Source Intelligence) tools for gathering information from publicly available sources. It covers a wide range of categories and tools.
-
-- **Example**: Using the framework to find tools for searching social media, IP addresses, or domain names.
-
-### 3. [SpiderFoot](https://www.spiderfoot.net/)
-SpiderFoot is an open-source intelligence automation tool. It automates the process of gathering and analyzing data from various sources.
-
-- **Example**: Conducting a thorough investigation of a domain to uncover related email addresses, social media profiles, and more.
-
-### 4. [Recon-ng](https://github.com/lanmaster53/recon-ng)
-Recon-ng is a full-featured web reconnaissance framework. It provides a powerful environment for gathering open-source intelligence.
-
-- **Example**: Running modules to gather information about a specific target, such as social media profiles or email addresses.
-
-## Conclusion
 
 By utilizing these tools, social engineers can gather extensive information about individuals and organizations. Awareness and understanding of these tools are essential for both attackers and defenders in the field of cybersecurity.
 
