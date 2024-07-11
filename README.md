@@ -276,5 +276,5 @@ By utilizing these tools, social engineers can gather extensive information abou
 
 ---
 
-For further reading and detailed case studies, explore the other sections of this repository.
+# Coming Soon
 
