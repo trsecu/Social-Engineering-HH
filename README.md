@@ -168,3 +168,92 @@ Understanding the basics of social engineering is the first step in protecting y
 ---
 
 For further reading and detailed case studies, explore the other sections of this repository.
+
+# Tools-for-Social-Engineering
+
+## Introduction
+
+Gathering information is a crucial step in social engineering attacks. By using various tools, attackers can collect detailed information about individuals and organizations. This section covers some of the best tools for searching social media accounts, performing Google Dorking, and conducting photo searches.
+
+## Tools for Social Media Search
+
+### 1. [Epieos](https://epieos.com/)
+Epieos is a tool for searching email addresses to find associated social media accounts. It can reveal a lot of personal information linked to an email.
+
+- **Example**: Searching for an email address to find all related social media profiles.
+
+### 2. [Social Searcher](https://www.social-searcher.com/)
+Social Searcher allows you to search for public content on various social networks in real-time. It helps in tracking mentions, analyzing sentiments, and finding trends.
+
+- **Example**: Monitoring a specific keyword or username across multiple social media platforms.
+
+### 3. [Check Usernames](https://checkusernames.com/)
+Check Usernames is a tool to verify the availability of usernames across multiple social networks. It helps in finding the same username on different platforms.
+
+- **Example**: Searching for a specific username to see if it is used on Twitter, Instagram, and LinkedIn.
+
+### 4. [That's Them - Reverse Phone Lookup](https://thatsthem.com/reverse-phone-lookup)
+That's Them offers a reverse phone lookup service to find detailed information about the owner of a phone number, including social media profiles.
+
+- **Example**: Entering a phone number to uncover associated social media accounts and other personal information.
+
+### 5. [What's My Name](https://whatsmyname.app/)
+What's My Name is a tool for identifying which websites a username is registered on. It helps in tracking a person's online presence across various platforms.
+
+- **Example**: Checking if a specific username is registered on major social media sites like Facebook, Twitter, and Reddit.
+
+## Google Dorking
+
+Google Dorking involves using advanced search techniques to find information that is not readily available through standard search queries. It helps in discovering sensitive data exposed unintentionally.
+
+- **Example Search**: `intext:"@example.com" filetype:pdf` to find PDF files containing email addresses from the example.com domain.
+
+## Website for Photo Search
+
+### Photo Search Tools
+
+#### 1. [PimEyes](https://pimeyes.com/en)
+PimEyes is a powerful reverse image search tool that helps find where an image appears online. It is useful for tracking the use of personal photos.
+
+- **Example**: Uploading a photo to see where it has been used on the internet.
+
+#### 2. [GeoSpy](https://geospy.ai/)
+GeoSpy is a tool for finding the location of a photo. It uses metadata and other techniques to determine where a picture was taken.
+
+- **Example**: Uploading a photo to determine its geographic location.
+
+#### 3. [TinEye](https://tineye.com/)
+TinEye is another reverse image search tool that allows users to find where an image appears on the web. It can help in tracking the origin of a photo.
+
+- **Example**: Using TinEye to check if a profile picture is used elsewhere on the internet.
+
+## Additional Tools for Information Gathering
+
+### 1. [Maltego](https://www.maltego.com/)
+Maltego is an interactive data mining tool that renders directed graphs for link analysis. It is useful for discovering relationships between different pieces of information.
+
+- **Example**: Mapping connections between social media profiles, email addresses, and phone numbers.
+
+### 2. [OSINT Framework](https://osintframework.com/)
+The OSINT Framework is a collection of OSINT (Open Source Intelligence) tools for gathering information from publicly available sources. It covers a wide range of categories and tools.
+
+- **Example**: Using the framework to find tools for searching social media, IP addresses, or domain names.
+
+### 3. [SpiderFoot](https://www.spiderfoot.net/)
+SpiderFoot is an open-source intelligence automation tool. It automates the process of gathering and analyzing data from various sources.
+
+- **Example**: Conducting a thorough investigation of a domain to uncover related email addresses, social media profiles, and more.
+
+### 4. [Recon-ng](https://github.com/lanmaster53/recon-ng)
+Recon-ng is a full-featured web reconnaissance framework. It provides a powerful environment for gathering open-source intelligence.
+
+- **Example**: Running modules to gather information about a specific target, such as social media profiles or email addresses.
+
+## Conclusion
+
+By utilizing these tools, social engineers can gather extensive information about individuals and organizations. Awareness and understanding of these tools are essential for both attackers and defenders in the field of cybersecurity.
+
+---
+
+For further reading and detailed case studies, explore the other sections of this repository.
+
