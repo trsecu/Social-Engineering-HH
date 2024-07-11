@@ -29,6 +29,7 @@ By studying social engineering, we can better equip ourselves to recognize and c
 - 🗺️ [Roadmap](#Roadmap)
 - 1️⃣ [Basics-of-Social-Engineering](#Basics-of-Social-Engineering)
 - 👾 [Tools-for-Social-Engineering](#Tools-for-Social-Engineering)
+- 😁 [Psychological-techniques](Psychological-techniques)
 
 ## Roadmap
 
@@ -278,7 +279,7 @@ By utilizing these tools, social engineers can gather extensive information abou
 
 # Psychological-techniques
 
-# 50 techniques of dark psychology (maybe too unethical, can't be posted here, I wrote a small part of these 50 techniques below)
+## 50 techniques of dark psychology (maybe too unethical, can't be posted here, I wrote a small part of these 50 techniques below)
 
 - ### Love bombing: Shower someone with excessive affection and attention to manipulate their emotions.
 
