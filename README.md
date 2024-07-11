@@ -81,14 +81,6 @@ By studying social engineering, we can better equip ourselves to recognize and c
 
 # Basics-of-Social-Engineering
 
-## Introduction
-
-Social engineering is a manipulation technique that exploits human error to gain private information, access, or valuables. In the context of information security, it refers to tricks and psychological tactics used by attackers to deceive individuals into compromising security protocols or disclosing sensitive information.
-
-## What is Social Engineering?
-
-Social engineering involves exploiting human psychology rather than technical hacking techniques to gain access to buildings, systems, or data. It relies on the natural tendency of people to trust others and can be more effective than traditional hacking methods.
-
 ## Common Techniques in Social Engineering
 
 ### 1. Phishing
